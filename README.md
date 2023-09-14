@@ -25,4 +25,5 @@ Each time the countdown ends, auto-judge checks the input and moves the staff as
 Goal: Same as the tug of war, pull the hook toward the red line at your side
 
 This game was built with [NEST](NEST.md).
+
 I don't know where to cite this but I used Alan Lee (soohyun3)'s commands from the Discord channel https://discord.com/channels/1144815260629479486/1149456290993672273/1150287740114571304
